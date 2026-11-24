@@ -5,8 +5,7 @@ My name is Angela Natividad. I am a second-year computer science major. I am rea
 * My interest in UI/UX stemmed from a project I did for Everyone Can Code Chicago, where I bridged building an app with accessibility
 * My skills: Python, JavaScript, C++, Swift, SwiftUI, XCode
 *  I enjoy taking the logic behind the program into features that users can easily interact with and understand.
-<!--
 
 - 🌱 I’m currently learning ...C, calculus 3, professional communication in computer science
 - 📫 my personal email: angelanatividad0514@gmail.com
--->
+<!--
