@@ -8,9 +8,11 @@ My name is Angela Natividad. I am a second-year computer science major. I am rea
 
 - 🌱 I’m currently learning ...C, calculus 3, professional communication in computer science
 - 📫 my personal email: angelanatividad0514@gmail.com
-<!--
+
 
 Featured Projects
 https://github.com/angelanatividad54/mapcessible
 
 https://github.com/angelanatividad54/word-ladder
+
+<!--
