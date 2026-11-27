@@ -10,9 +10,15 @@ My name is Angela Natividad. I am a second-year computer science major. I am rea
 - 📫 my personal email: angelanatividad0514@gmail.com
 
 
-Featured Projects
-https://github.com/angelanatividad54/mapcessible
+Featured Projects:
 
-https://github.com/angelanatividad54/word-ladder
+
+[mapcessible - accessibility navigation app](https://github.com/angelanatividad54/mapcessible)
+- Mapcessible helps users by finding physical accessibility (seats, ramps, entrances) in local neighborhoods! Technologies used were
+  Swift, SwiftUI, and MapKit
+
+[GWC-Food-Sustainability - bridges food sustainability and AI](https://github.com/angelanatividad54/GWC-Food-Sustainability)
+- This food sustainability app informs users on how AI can help with food sustainability as well as including food sustainability
+  in our daily lives. Technologies used were JavaScript on Code.Org's App Lab.
 
 <!--
