@@ -8,11 +8,11 @@ My name is Angela Natividad. I am a second-year computer science major. I am rea
 * My skills: Python, JavaScript, C++, Swift, SwiftUI, XCode
 *  I enjoy taking the logic behind the program into features that users can easily interact with and understand.
 
-- 🌱 I’m currently learning ...C, calculus 3, professional communication in computer science
-- 📫 my personal email: angelanatividad0514@gmail.com
+- **🌱 I’m currently learning ...** C, calculus 3, professional communication in computer science
+- 📫 **contact me:** angelanatividad0514@gmail.com
 
 
-Featured Projects:
+**Featured Projects:**
 
 
 [mapcessible - accessibility navigation app](https://github.com/angelanatividad54/mapcessible)
