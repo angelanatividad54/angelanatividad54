@@ -1,3 +1,5 @@
+<img width="3400" height="920" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/fd545310-cb4d-47b5-9d19-ed102ef743c7" />
+
 ## Hi there! 👋 
 My name is Angela Natividad. I am a second-year computer science major. I am really interested in front end development.
 * I was interested in computer science since middle school (while taking a computer typing class!)
